@@ -1,0 +1,213 @@
+ls
+brew help
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+brew uninstall sketchybar\
+brew untap FelixKratz/formulae
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/s/.zprofile\
+
+brew help
+ls -al
+ls /opt/homebrew/bin
+clear
+ nano .zshrc
+ls -al
+cat .zshrc
+source .zshrc
+ clear
+brew help
+brew help
+brew install fastfetch
+fastfetch
+# This installs the kitty terminal\
+brew install --cask kitty\
+\
+# I am also installing the fonts I like to use currently with my kitty config\
+brew install --cask font-meslo-lg-nerd-font\
+\
+# This also downloads the kitty themes and puts them in the directory where my\
+# config looks\
+mkdir -p ~/github/dotfiles-latest/kitty/themes/\
+git clone --depth 1 https://github.com/kovidgoyal/kitty-themes.git ~/github/dotfiles-latest/kitty/themes/\
+rm -rf ~/github/dotfiles-latest/kitty/themes/.git/\
+rm -rf ~/github/dotfiles-latest/kitty/themes/.github/
+brew help
+brew update\
+brew install lua
+brew install neovim
+cd ~/.config
+ls
+cd kitty
+ls
+nvim kitty.conf
+fastfetch
+clear
+brew tap FelixKratz/formulae\
+brew install borders
+brew services start borders
+brew services restart borders
+brew install koekeishiya/formulae/yabai
+yabai --start-service
+fastfetch
+  brew install koekeishiya/formulae/skhd\
+  skhd --start-service
+  git clone https://github.com/koekeishiya/skhd\
+  make install      # release version\
+  make              # debug version
+clear
+cd ~/.config
+ls
+cd skhd
+ls
+nvim skhdrc
+skhd --start-service
+skhd -c ~/.skhdrc
+brew tap FelixKratz/formulae\
+brew install sketchybar
+mkdir -p ~/.config/sketchybar/plugins\
+cp $(brew --prefix)/share/sketchybar/examples/sketchybarrc ~/.config/sketchybar/sketchybarrc\
+cp -r $(brew --prefix)/share/sketchybar/examples/plugins/ ~/.config/sketchybar/plugins/
+brew services start sketchybar
+brew services restart sketchybar
+brew services start sketchybar
+brew services restart sketchybar
+LS
+cd ~/.config
+ls
+cd kitty
+nvim kitty.conf
+cd ~/.config
+ls
+cd kitty
+nano kitty.conf
+nano kitty.conf
+fastfetch
+fastfetch
+cd ~/.config
+ls
+cd skhd
+ls
+nvim skhdrc
+nano skhdrc
+nano skhdrc
+ls
+nano skhdrc
+brew services restart sketchybar
+fastfetch
+cd ~/.config/skhd
+ls
+nvim skhdrc
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+clear
+clear
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+clear
+fastfetch
+cd ~/.config
+ls
+cd sketchybar
+ls
+nvim icons.sh
+cd ~/.config
+ls
+cd sketchybar
+ls
+cd plugins
+ls
+nano network.sh
+cd ..
+nvim sketchybarrc
+ls
+cd Downloads
+ls
+cd BACKUP
+ls
+nano sketchybarrc
+ls
+cd ~/.config
+ls
+cd sketchybar
+ls
+nvim sketchybarrc
+brew services restart sketchybar
+cd ~/.config
+ls
+cd sketchybar/plugins
+nano toggle_stats.sh
+nano ram.sh
+nano disk.sh
+cd ..
+ls
+nano sketchybarrc
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+cd ..
+brew install --cask sf-symbols\
+brew tap homebrew/cask-fonts\
+brew install --cask font-hack-nerd-font\
+curl -L https://github.com/kvndrsslr/sketchybar-app-font/releases/download/v1.0.3/sketchybar-app-font.ttf -o $HOME/Library/Fonts/sketchybar-app-font.ttf
+brew services restart sketchybar
+chmod +x plugins/*
+cd sketchybar
+chmod +x plugins/*
+brew services restart sketchybar
+cd plufins
+chmod +x plugins/*
+brew services restart sketchybar
+cd ..
+sudo apt-get install pkg-config libncursesw5-dev libreadline-dev\
+sudo make strip install
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+neofetch
+fastfetch
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew install ical-buddy
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+brew services restart sketchybar
+/Users/s/.config/sketchybar/sketchybarrc ; exit;

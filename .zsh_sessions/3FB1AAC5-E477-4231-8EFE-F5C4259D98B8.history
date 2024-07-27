@@ -1,0 +1,19 @@
+ls
+brew help
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+brew uninstall sketchybar\
+brew untap FelixKratz/formulae
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/s/.zprofile\
+
+brew help
+ls -al
+ls /opt/homebrew/bin
+clear
+ nano .zshrc
+ls -al
+cat .zshrc
+source .zshrc
+ clear
+brew help

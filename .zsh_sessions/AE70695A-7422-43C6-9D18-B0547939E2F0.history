@@ -1,0 +1,34 @@
+ls
+brew help
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+brew uninstall sketchybar\
+brew untap FelixKratz/formulae
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/s/.zprofile\
+
+brew help
+ls -al
+ls /opt/homebrew/bin
+clear
+ nano .zshrc
+ls -al
+cat .zshrc
+source .zshrc
+ clear
+brew help
+brew help
+brew install fastfetch
+fastfetch
+# This installs the kitty terminal\
+brew install --cask kitty\
+\
+# I am also installing the fonts I like to use currently with my kitty config\
+brew install --cask font-meslo-lg-nerd-font\
+\
+# This also downloads the kitty themes and puts them in the directory where my\
+# config looks\
+mkdir -p ~/github/dotfiles-latest/kitty/themes/\
+git clone --depth 1 https://github.com/kovidgoyal/kitty-themes.git ~/github/dotfiles-latest/kitty/themes/\
+rm -rf ~/github/dotfiles-latest/kitty/themes/.git/\
+rm -rf ~/github/dotfiles-latest/kitty/themes/.github/
